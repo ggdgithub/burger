@@ -1,0 +1,35 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger-eating app for UCLA Extension Coding Bootcamp",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "expres": "^0.0.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggdgithub/burger.git"
+  },
+  "keywords": [
+    "heroku",
+    "ucla",
+    "extension",
+    "coding",
+    "bootcamp"
+  ],
+  "author": "Gabriel Galiza de Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggdgithub/burger/issues"
+  },
+  "homepage": "https://github.com/ggdgithub/burger#readme"
+}
